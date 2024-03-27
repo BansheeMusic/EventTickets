@@ -1,4 +1,4 @@
-# Tokenmaster
+# Event Tickets
 
 ## Technology Stack & Tools
 
