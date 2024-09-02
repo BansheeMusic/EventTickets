@@ -1,5 +1,6 @@
 require("@nomicfoundation/hardhat-toolbox");
 
+// also on Fantom Network
 /** @type import('hardhat/config').HardhatUserConfig */
 module.exports = {
   solidity: "0.8.17",
